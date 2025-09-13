@@ -1,0 +1,17 @@
+.video{
+  object-fit: initial;
+  width: 100%;
+  height: 600px;
+}
+.branch {
+	color: orange;
+	text-align: center;
+}
+.alert {
+	color: #FC8436;
+	text-align: center;
+	font-size: 40px;
+	font-family: fantasy;
+	margin: 0%;
+	padding: 20px;
+}

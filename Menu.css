@@ -1,0 +1,12 @@
+.card{
+	margin: 10px;
+	text-align: center;
+}
+.alert {
+	color: #FC8436;
+	text-align: center;
+	font-size: 40px;
+	font-family: fantasy;
+	margin: 0%;
+	padding: 20px;
+}
