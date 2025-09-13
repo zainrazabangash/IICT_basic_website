@@ -1,12 +1,12 @@
 # Quetta Chinar Restaurant Website
 
-A modern, responsive restaurant website built using HTML, CSS, and Bootstrap during the first semester of my Bachelor of Science (BS) program.
+A modern, responsive restaurant website built using HTML, CSS, and Bootstrap during the first semester of my BS Artificial Intelligence.
 
-## 🍽️ About the Project
+## About the Project
 
-This project showcases a complete restaurant website for "Quetta Chinar" - a café and restaurant. The website features a clean, modern design with multiple pages including home, menu, contact us, and login sections.
+This project showcases a complete restaurant website for "Quetta Chinar", a cafe and restaurant. The website features a clean, modern design with multiple pages including home, menu, contact us, and login sections.
 
-## 🚀 Features
+## Features
 
 - **Responsive Design**: Built with Bootstrap 5 for mobile-first, responsive layout
 - **Modern UI/UX**: Clean and professional design with smooth navigation
@@ -22,14 +22,14 @@ This project showcases a complete restaurant website for "Quetta Chinar" - a caf
   - Contact form
 - **Visual Assets**: High-quality images and videos showcasing the restaurant
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Semantic markup and structure
 - **CSS3**: Custom styling and responsive design
 - **Bootstrap 5**: Frontend framework for responsive layout
 - **JavaScript**: Interactive functionality (Bootstrap components)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── index.html          # Home page
@@ -47,7 +47,7 @@ This project showcases a complete restaurant website for "Quetta Chinar" - a caf
 └── Web.mp4             # Background video
 ```
 
-## 🎯 Key Learning Outcomes
+## Key Learning Outcomes
 
 This project demonstrates proficiency in:
 - Frontend web development fundamentals
@@ -58,23 +58,12 @@ This project demonstrates proficiency in:
 - User interface design
 - Cross-browser compatibility
 
-## 👨‍💻 Developer
+## Developer
 
-**Muhammad Zain Raza**  
-Student ID: 22I-0520  
-First Semester BS - Introduction to Information and Communication Technology (IICT)
+**Muhammad Zain Raza** 
+Student of BS AI, FAST NUCES Islamabad.
 
-## 📱 Social Media
-
-- [Instagram](https://www.instagram.com/quettachinar/)
-- [Facebook](https://m.facebook.com/people/Quetta-Chinaar-Caf%C3%A8-and-Restaurant/100063881477935/)
-- [Twitter](https://twitter.com/Abbottonian0)
-- [LinkedIn](https://pk.linkedin.com/in/muhammad-zain-raza-3ba239223)
-
-## 📧 Contact
-
-Email: zainr1238@gmail.com
 
 ---
 
-*This project was developed as part of the Introduction to Information and Communication Technology (IICT) course during the first semester of my Bachelor of Science program.*
+*This project was developed as part of the Introduction to Information and Communication Technology (IICT) course during the first semester of my BS AI program.*
